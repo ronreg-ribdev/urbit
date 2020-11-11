@@ -16,7 +16,7 @@
   |%
   +$  noun  mime                                  ::  clam from %noun
   ++  tape
-    |=(a=tape [/application/x-urb-unknown (as-octt:mimes:html a)])
+    |=(a=_"" [/application/x-urb-unknown (as-octt:mimes:html a)])
   --
 ++  grad
   ^?
